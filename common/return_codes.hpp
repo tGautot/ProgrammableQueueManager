@@ -1,0 +1,13 @@
+#ifndef _RETURN_CODES_HPP_
+#define _RETURN_CODES_HPP_
+
+#define SUCCESS 0
+
+
+#define DB_ERR_CANT_CON 10000
+#define DB_BAD_SETUP 10001
+#define DB_WRONG_PRIVILEGES 10002
+#define DB_ERR_NO_CON 10003
+
+#endif
+

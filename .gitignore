@@ -1,0 +1,5 @@
+build/
+.cache/
+
+# Any vim swp
+**.swp
