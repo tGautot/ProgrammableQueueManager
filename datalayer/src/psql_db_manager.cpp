@@ -1,4 +1,5 @@
 #include "psql_db_manager.hpp"
+#include "datamodels.hpp"
 #include "return_codes.hpp"
 #include <pqxx/pqxx>
 #include <iostream>
